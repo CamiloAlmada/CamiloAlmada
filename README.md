@@ -36,5 +36,3 @@ Me gusta el código que es claro, útil y fácil de mantener.
 Cursando Ingeniería de Software en ORT Uruguay.  
 Construyendo herramientas internas y automatizaciones.  
 Aprendiendo Go en proyectos personales.
- 
----

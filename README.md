@@ -2,7 +2,8 @@
  
 Desarrollador de software con más de 11 años de experiencia, desde Montevideo, Uruguay.
  
-Me especializo en construir backends robustos, herramientas internas y scripts que resuelven problemas reales. Me gusta el código que es claro, útil y fácil de mantener.
+Me especializo en construir backends robustos, herramientas internas y scripts que resuelven problemas reales. 
+Me gusta el código que es claro, útil y fácil de mantener.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camiloalmada)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilo.almada@gmail.com)

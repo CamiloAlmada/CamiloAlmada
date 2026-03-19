@@ -4,6 +4,9 @@ Desarrollador de software con más de 11 años de experiencia, desde Montevideo,
  
 Me especializo en construir backends robustos, herramientas internas y scripts que resuelven problemas reales. Me gusta el código que es claro, útil y fácil de mantener.
  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camiloalmada)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilo.almada@gmail.com)
+ 
 ---
  
 ### Lo que uso día a día
@@ -11,9 +14,8 @@ Me especializo en construir backends robustos, herramientas internas y scripts q
 **Lenguajes**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
  
 **Backend**
  
